@@ -18,6 +18,7 @@ main{
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;
+    padding: 20px;
 
 }
 
