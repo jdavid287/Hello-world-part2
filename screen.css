@@ -20,7 +20,7 @@ main{
     flex-basis: 0;
     background: #eee;
     padding: 20px;
-
+    border-radius: 20px;
 }
 
 img {
