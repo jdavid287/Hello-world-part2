@@ -14,7 +14,7 @@ main{
     background-image: url('images/mac.jpg');
     background-size: cover;
     background-position: bottom;
-    height: 275px;
+    height: 200px;
     border-radius: 20px;
 }
 
